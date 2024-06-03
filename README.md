@@ -11,8 +11,8 @@ This project is a Movie Library application built with React, Express, and Mongo
 - Add movies to a personal list
 
 ## Visit the Site
-[Visit the Movie-library site](https://665e09e2206c0e322ad5d97e--incandescent-buttercream-dbc7f4.netlify.app/)
-(It may work slow as all free components are used)
+[Visit the Movie-library website](https://665e09e2206c0e322ad5d97e--incandescent-buttercream-dbc7f4.netlify.app/)
+ (It may work slow as all free components are used)
 
 ## Prerequisites
 
